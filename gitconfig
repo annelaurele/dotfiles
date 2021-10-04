@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = annelaurele@hotmail.fr
+	name = Anne Laure Le
